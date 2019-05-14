@@ -1,0 +1,4 @@
+studname:revathy
+dept:civil
+clg:mcet
+
