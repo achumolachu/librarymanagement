@@ -1,0 +1,3 @@
+staffname:sudha
+dept:cs
+clg:mcet
