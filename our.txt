@@ -1,3 +1,6 @@
 stud name:aswathy
 dept:mca
 clg:mcet
+staffname:achu
+dept:cs
+clg:mcet
